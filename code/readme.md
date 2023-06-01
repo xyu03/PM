@@ -1,6 +1,5 @@
 ### Compile
 
-cd src
 g++ steiner.cpp -O3 -o PMsolver
 
 ### Run
